@@ -6,7 +6,7 @@ Also, I used a persistent disk and Auto Scaling to provide resilience. The app i
 
 To create the infrastructure it was used Terraform as well as to deploy the application manifests to the GKE.
 
-The locust.py script was used to test the Auto Scaling emulate a surge of users requesting the application, causing the application to scale its components.
+The locust.py script was used to test the Auto Scaling emulating a surge of users requesting the application, causing the application to scale its components.
 
 
 
