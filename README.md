@@ -1,6 +1,6 @@
 Retail APP Store
 
-My intention here was to use the code borrowed and adapted from the repo below to demosntrate how to deploy an application in GCP using GKE( Google Kubernetes Engine) and also microservices concept. 
+My intention here was to use the code borrowed and adapted from the repo below to demonstrate how to deploy an application in GCP using GKE( Google Kubernetes Engine) and also microservices concept. 
 
 Also, I used a persistent disk and Auto Scaling to provide resilience. The app is well splited on 11 microservices using the manifests in yaml. 
 
